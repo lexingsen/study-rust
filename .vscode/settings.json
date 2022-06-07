@@ -1,0 +1,6 @@
+{
+    "rust-client.rustupPath": "$HOME/.cargo/bin/rustup",
+    "editor.codeActionsOnSave": {
+    
+    }
+}
